@@ -1,0 +1,2 @@
+# WTpractical2
+Create an event registration website having a home, registration and Show Registration layout, use CSS to design these pages (allowed to use CSS framework). Your Home layout should be designed to display the Event details, your registration layout has the input fields (consider all type of fields like checkbox, radio button, textarea, select, etc.) and show registration page has to display the registration details in a table generated using JS.
